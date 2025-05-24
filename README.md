@@ -1,2 +1,1 @@
-## END TO END MACHINE LEARNING PROJECT
-### Created by: MD AFROZ ALI
+# student performance prediction
