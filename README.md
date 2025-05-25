@@ -1,6 +1,5 @@
-Here's the converted `README.md` file with proper Markdown formatting:
 
-```markdown
+
 # Student Success Predictor
 
 An end-to-end machine learning solution that predicts student math performance based on demographic and educational features. This project demonstrates a complete MLOps pipeline from data ingestion to model deployment on Azure.
