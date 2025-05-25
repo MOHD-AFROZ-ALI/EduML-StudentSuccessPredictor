@@ -246,7 +246,7 @@ Please follow PEP 8 code style guidelines for Python code and write appropriate 
 - **LinkedIn**: [linkedin.com/in/mohd-afroz-ali](https://linkedin.com/in/mohd-afroz-ali)
 - **Phone**: +91 9959786710
 
-© 2023 Mohammad Afroz Ali. All rights reserved.
+© 2025 Mohammad Afroz Ali. All rights reserved.
 
 Built with Python, scikit-learn, Flask, Docker, and Azure
 ```
